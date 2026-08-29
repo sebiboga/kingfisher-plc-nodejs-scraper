@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, BLD IANCU DE HUNEDOARA, NR.48, ET.9 |
 | Website | [https://www.epam.com](https://www.epam.com) |
 | Careers | [https://careers.epam.com](https://careers.epam.com) |
-| Last Scraped | 2026-08-28 |
+| Last Scraped | 2026-08-29 |
 
 ## Current Job Listings (78)
 
-_Generated: 2026-08-28T17:44:54.248Z_
+_Generated: 2026-08-29T11:48:58.690Z_
 
 ### Senior Full Stack ABAP/UI5 Developer
 
