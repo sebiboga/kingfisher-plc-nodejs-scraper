@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, BLD IANCU DE HUNEDOARA, NR.48, ET.9 |
 | Website | [https://www.epam.com](https://www.epam.com) |
 | Careers | [https://careers.epam.com](https://careers.epam.com) |
-| Last Scraped | 2026-09-06 |
+| Last Scraped | 2026-09-07 |
 
-## Current Job Listings (86)
+## Current Job Listings (91)
 
-_Generated: 2026-09-06T09:44:15.705Z_
+_Generated: 2026-09-07T10:47:44.538Z_
 
 ### Senior Full Stack ABAP/UI5 Developer
 
@@ -256,6 +256,14 @@ _Generated: 2026-09-06T09:44:15.705Z_
 - **Tags:** business analytics consulting
 - **Status:** scraped
 
+### SAP SuccessFactors Consultant
+
+- **URL:** [https://careers.epam.com/en/vacancy/sap-successfactors-consultant-blt7zvk3y3mljqqwtny_en](https://careers.epam.com/en/vacancy/sap-successfactors-consultant-blt7zvk3y3mljqqwtny_en)
+- **Work Mode:** remote
+- **Location:** România
+- **Tags:** sap success factors, sap successfactors
+- **Status:** scraped
+
 ### Senior Full-stack IoT Engineer
 
 - **URL:** [https://careers.epam.com/en/vacancy/senior-full-stack-iot-engineer-blt80c41uliwspt0kvg_en](https://careers.epam.com/en/vacancy/senior-full-stack-iot-engineer-blt80c41uliwspt0kvg_en)
@@ -456,12 +464,20 @@ _Generated: 2026-09-06T09:44:15.705Z_
 - **Tags:** data science consulting, scrum, kanban, mlops, docker, kubernetes, github, numpy, pandas, tensorflow
 - **Status:** scraped
 
+### Senior SAP Data Migration Consultant
+
+- **URL:** [https://careers.epam.com/en/vacancy/senior-sap-data-migration-consultant-bltg4t3p0mjka1yybz0_en](https://careers.epam.com/en/vacancy/senior-sap-data-migration-consultant-bltg4t3p0mjka1yybz0_en)
+- **Work Mode:** remote
+- **Location:** România
+- **Tags:** sap logistics (scm), gxp, sap, sap implementation excellence, sap process orchestration, sap: le-wm warehouse management, sap: lo-bm batches
+- **Status:** scraped
+
 ### Senior Python Engineer
 
 - **URL:** [https://careers.epam.com/en/vacancy/senior-python-engineer-bltgathedqzkujtjifd_en](https://careers.epam.com/en/vacancy/senior-python-engineer-bltgathedqzkujtjifd_en)
 - **Work Mode:** hybrid
 - **Location:** Bucharest
-- **Tags:** python.core, ci/cd, sql, snowflake
+- **Tags:** data integration, ci/cd, sql, snowflake
 - **Status:** scraped
 
 ### Senior Data Engineer
@@ -486,6 +502,14 @@ _Generated: 2026-09-06T09:44:15.705Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** sap logistics (scm), e-invoicing, sap-sd: sales
+- **Status:** scraped
+
+### SAP ABAP Engineering Manager
+
+- **URL:** [https://careers.epam.com/en/vacancy/sap-abap-engineering-manager-bltj4vrkf0a4l571pct_en](https://careers.epam.com/en/vacancy/sap-abap-engineering-manager-bltj4vrkf0a4l571pct_en)
+- **Work Mode:** remote
+- **Location:** România
+- **Tags:** sap abap, sap abap in s/4hana, sap-fi: fiori application, ci/cd in sap
 - **Status:** scraped
 
 ### SAP MDG Consultant
@@ -558,6 +582,22 @@ _Generated: 2026-09-06T09:44:15.705Z_
 - **Work Mode:** hybrid
 - **Location:** Bucharest
 - **Tags:** automated testing in python, python testing, sql, selenium, test automation frameworks
+- **Status:** scraped
+
+### SAP ABAP Engineering Manager
+
+- **URL:** [https://careers.epam.com/en/vacancy/sap-abap-engineering-manager-bltmjg76o2x3d98ym8g_en](https://careers.epam.com/en/vacancy/sap-abap-engineering-manager-bltmjg76o2x3d98ym8g_en)
+- **Work Mode:** remote
+- **Location:** România
+- **Tags:** sap abap, sap abap in s/4hana, sap-fi: fiori application, ci/cd in sap
+- **Status:** scraped
+
+### Senior SAP SuccessFactors Consultant
+
+- **URL:** [https://careers.epam.com/en/vacancy/senior-sap-successfactors-consultant-bltnlwlyazu4aeh91xf_en](https://careers.epam.com/en/vacancy/senior-sap-successfactors-consultant-bltnlwlyazu4aeh91xf_en)
+- **Work Mode:** remote
+- **Location:** România
+- **Tags:** sap success factors, sap successfactors
 - **Status:** scraped
 
 ### SAP Basis Architect
