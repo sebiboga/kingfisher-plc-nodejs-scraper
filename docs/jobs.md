@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, BLD IANCU DE HUNEDOARA, NR.48, ET.9 |
 | Website | [https://www.epam.com](https://www.epam.com) |
 | Careers | [https://careers.epam.com](https://careers.epam.com) |
-| Last Scraped | 2026-09-07 |
+| Last Scraped | 2026-09-08 |
 
-## Current Job Listings (91)
+## Current Job Listings (96)
 
-_Generated: 2026-09-07T10:47:44.538Z_
+_Generated: 2026-09-08T10:08:30.154Z_
 
 ### Senior Full Stack ABAP/UI5 Developer
 
@@ -224,6 +224,14 @@ _Generated: 2026-09-07T10:47:44.538Z_
 - **Tags:** sap logistics (scm), erp, sap, communication
 - **Status:** scraped
 
+### Senior S/4 HANA Developer
+
+- **URL:** [https://careers.epam.com/en/vacancy/senior-s-4-hana-developer-blt70nlnxji11b3guuo_en](https://careers.epam.com/en/vacancy/senior-s-4-hana-developer-blt70nlnxji11b3guuo_en)
+- **Work Mode:** remote
+- **Location:** România
+- **Tags:** sap hana data warehousing, sap hana cloud
+- **Status:** scraped
+
 ### Senior ABAP Developer
 
 - **URL:** [https://careers.epam.com/en/vacancy/senior-abap-developer-blt732864c20e7ab15c_en](https://careers.epam.com/en/vacancy/senior-abap-developer-blt732864c20e7ab15c_en)
@@ -358,6 +366,14 @@ _Generated: 2026-09-07T10:47:44.538Z_
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** talent acquisition
+- **Status:** scraped
+
+### Lead S/4 HANA Developer
+
+- **URL:** [https://careers.epam.com/en/vacancy/lead-s-4-hana-developer-bltbz67u5mgai45itja_en](https://careers.epam.com/en/vacancy/lead-s-4-hana-developer-bltbz67u5mgai45itja_en)
+- **Work Mode:** remote
+- **Location:** România
+- **Tags:** sap hana data warehousing, sap hana cloud
 - **Status:** scraped
 
 ### Senior SAP ABAP Developer
@@ -568,6 +584,14 @@ _Generated: 2026-09-07T10:47:44.538Z_
 - **Tags:** advanced systems engineering, c++, ci/cd, go language, observability and troubleshooting in distributed systems, opentelemetry, rust
 - **Status:** scraped
 
+### Chief S/4 HANA Developer
+
+- **URL:** [https://careers.epam.com/en/vacancy/chief-s-4-hana-developer-bltme7sw87u5n0n4mnq_en](https://careers.epam.com/en/vacancy/chief-s-4-hana-developer-bltme7sw87u5n0n4mnq_en)
+- **Work Mode:** remote
+- **Location:** România
+- **Tags:** sap hana data warehousing, sap hana cloud
+- **Status:** scraped
+
 ### Lead UiPath Agentic Automation Engineer
 
 - **URL:** [https://careers.epam.com/en/vacancy/lead-uipath-agentic-automation-engineer-bltmif8fcrj0efwslvk_en](https://careers.epam.com/en/vacancy/lead-uipath-agentic-automation-engineer-bltmif8fcrj0efwslvk_en)
@@ -603,6 +627,14 @@ _Generated: 2026-09-07T10:47:44.538Z_
 ### SAP Basis Architect
 
 - **URL:** [https://careers.epam.com/en/vacancy/sap-basis-architect-bltnwmzd9806o5gn8li_en](https://careers.epam.com/en/vacancy/sap-basis-architect-bltnwmzd9806o5gn8li_en)
+- **Work Mode:** remote
+- **Location:** România
+- **Tags:** solution architecture, amazon web services
+- **Status:** scraped
+
+### SAP BTP Architect
+
+- **URL:** [https://careers.epam.com/en/vacancy/sap-btp-architect-blto03cn4snxnblngsd_en](https://careers.epam.com/en/vacancy/sap-btp-architect-blto03cn4snxnblngsd_en)
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** solution architecture, amazon web services
@@ -694,6 +726,14 @@ _Generated: 2026-09-07T10:47:44.538Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** go language, docker, kubernetes, kotlin, node.js, python
+- **Status:** scraped
+
+### SAP BTP Architect
+
+- **URL:** [https://careers.epam.com/en/vacancy/sap-btp-architect-bltw8oknzrq5vhdcnl5_en](https://careers.epam.com/en/vacancy/sap-btp-architect-bltw8oknzrq5vhdcnl5_en)
+- **Work Mode:** remote
+- **Location:** România
+- **Tags:** solution architecture, amazon web services
 - **Status:** scraped
 
 ### Senior Azure Platform Engineer
