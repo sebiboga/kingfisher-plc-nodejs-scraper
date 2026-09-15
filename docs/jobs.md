@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, BLD IANCU DE HUNEDOARA, NR.48, ET.9 |
 | Website | [https://www.epam.com](https://www.epam.com) |
 | Careers | [https://careers.epam.com](https://careers.epam.com) |
-| Last Scraped | 2026-09-14 |
+| Last Scraped | 2026-09-15 |
 
-## Current Job Listings (98)
+## Current Job Listings (100)
 
-_Generated: 2026-09-14T11:01:08.339Z_
+_Generated: 2026-09-15T10:31:29.530Z_
 
 ### Senior Full Stack ABAP/UI5 Developer
 
@@ -798,4 +798,20 @@ _Generated: 2026-09-14T11:01:08.339Z_
 - **Work Mode:** remote
 - **Location:** România
 - **Tags:** business analytics consulting
+- **Status:** scraped
+
+### RAP Developer (Relocation to Cyprus)
+
+- **URL:** [https://careers.epam.com/en/vacancy/rap-developer-relocation-to-cyprus-bltk5a8t0itiwv4eerh_en](https://careers.epam.com/en/vacancy/rap-developer-relocation-to-cyprus-bltk5a8t0itiwv4eerh_en)
+- **Work Mode:** remote
+- **Location:** România
+- **Tags:** sap abap
+- **Status:** scraped
+
+### Senior / Lead Machine Learning Engineer - LLM & GenAI Applications (relocation to Cyprus)
+
+- **URL:** [https://careers.epam.com/en/vacancy/senior-lead-machine-learning-engineer-llm-genai-applications-relocation-to-cyprus-bltmcw7aqio9dlxsted_en](https://careers.epam.com/en/vacancy/senior-lead-machine-learning-engineer-llm-genai-applications-relocation-to-cyprus-bltmcw7aqio9dlxsted_en)
+- **Work Mode:** remote
+- **Location:** România
+- **Tags:** ai solution engineering
 - **Status:** scraped
